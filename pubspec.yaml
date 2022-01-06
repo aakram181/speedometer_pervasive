@@ -37,6 +37,9 @@ dependencies:
   syncfusion_flutter_gauges: ^19.4.40
   sensors: ^2.0.3
   audioplayers: ^0.20.1
+  geolocator: ^8.0.1
+  android_intent: ^2.0.2
+  permission_handler: ^8.3.0
 
 dev_dependencies:
   flutter_test:
